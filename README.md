@@ -1,4 +1,4 @@
-# Abstract_interface_php
+# Abstract
 تعلم abstract and interface into the PHP 
 
 # what is the Abstract class 
@@ -7,3 +7,8 @@
 # Notes
 - need the properties or methods as references
 - As Access modifer you can use any access (public, private and protected)
+
+# what is the interface class 
+* Interface class :  عبارة عن كلاس تكون المبرمج مجبر على استخدام جميع العناصر و الملحقات فيه عند استخدامه
+* As access modifier into interface you will use only public modifier 
+* لتطبيق الواجهات في php نقون باستخدام كلمة implements
