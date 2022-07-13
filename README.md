@@ -12,3 +12,7 @@
 * Interface class :  عبارة عن كلاس تكون المبرمج مجبر على استخدام جميع العناصر و الملحقات فيه عند استخدامه
 * As access modifier into interface you will use only public modifier 
 * لتطبيق الواجهات في php نقون باستخدام كلمة implements
+
+# ماهو الفرق بين interface & abstract
+* Abstract : كانه كلاس انت بضيف كل الاشياء الي راح يكون المبرمج مجبر انه يستخدمها
+* interface : هنا على حسب ملاحظتي لاحظت انه عبارة عن ميثود و اورامر فقط
